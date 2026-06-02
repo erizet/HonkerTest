@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/HonkerReader/HonkerReader.csproj" />
+    <Project Path="src/HonkerWriter/HonkerWriter.csproj" />
+  </Folder>
+</Solution>
